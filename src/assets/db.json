@@ -1,0 +1,39 @@
+{
+  "heroes": [
+    {
+      "id": "f509f157-d37c-51ca-9322-c3eeadec7537",
+      "name": "dfgdfg",
+      "ability": "0",
+      "createdDate": "Wed, 16 Aug 2023 16:31:32 GMT",
+      "power": 10
+    },
+    {
+      "id": "48c8245d-6f88-a854-545b-e70155dfe754",
+      "name": "123123",
+      "ability": "Attacker",
+      "createdDate": "Wed, 16 Aug 2023 18:18:29 GMT",
+      "power": 123
+    },
+    {
+      "id": "334f7e2d-5490-240c-c65c-930ca5d2d6ba",
+      "name": "123123123",
+      "ability": "Attacker",
+      "createdDate": "Wed, 16 Aug 2023 18:34:23 GMT",
+      "power": 123
+    }
+  ],
+  "trainers": [
+    {
+      "id": "werewrwer",
+      "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"
+    },
+    {
+      "id": "awfwef",
+      "password": "932f3c1b56257ce8539ac269d7aab42550dacf8818d075f0bdf1990562aae3ef"
+    },
+    {
+      "id": "123123",
+      "password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e"
+    }
+  ]
+}
